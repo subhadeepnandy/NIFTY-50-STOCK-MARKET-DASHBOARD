@@ -147,4 +147,4 @@ Enables detailed stock-level performance analysis.
 📈 Certain months showed significantly higher profitability due to favorable market conditions.
 📆 Long-term and positional strategies appeared more stable than short-term strategies.
 
-📸 Screenshots / Demo :- 
+📸 Screenshots / Demo :- (https://github.com/subhadeepnandy/NIFTY-50-STOCK-MARKET-DASHBOARD/blob/main/NIFTY%2050%20STOCK%20MARKET%20DASHBOARD.jpeg)
